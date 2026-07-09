@@ -1,5 +1,5 @@
 [app]
-title = Hesabu App
+title = Hesabu pro
 package.name = hesabuapp
 package.domain = org.barackelly
 source.dir =.
@@ -15,3 +15,4 @@ android.admob = True
 
 [buildozer]
 log_level = 2
+icon.filename = icon.png
