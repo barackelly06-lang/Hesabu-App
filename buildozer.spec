@@ -15,4 +15,4 @@ android.admob = True
 
 [buildozer]
 log_level = 2
-icon.filename = icon.png
+icon.filename = icon.png 
